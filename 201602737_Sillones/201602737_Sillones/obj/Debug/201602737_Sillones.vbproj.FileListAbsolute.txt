@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\bin\Debug\201602737_Sillones.exe.config
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\bin\Debug\201602737_Sillones.exe
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\bin\Debug\201602737_Sillones.pdb
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\bin\Debug\201602737_Sillones.xml
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\_201602737_Sillones.Form1.resources
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\_201602737_Sillones.Resources.resources
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.exe
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.xml
+C:\Users\Usuario\Desktop\JUNIOR\2022\201602737_Sillones\201602737_Sillones\obj\Debug\201602737_Sillones.pdb
